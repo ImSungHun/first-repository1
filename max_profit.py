@@ -1,4 +1,4 @@
-def maxProfit_bruteforce (prices):
+def max_bf (prices):
    max_price = 0
 
    for i, price in enumerate(prices):

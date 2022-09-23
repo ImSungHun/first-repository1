@@ -7,4 +7,4 @@ if __name__ == '__main__':
     pn.is_prime_number(24)
 
     prices = (15, 10, 6, 9, 10, 4)
-    print(mp.maxProfit_bruteforce(prices))
+    print(mp.max_bf(prices))
